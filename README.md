@@ -10,7 +10,7 @@ Another thing commented by the teacher was React Native for Augmented Reality.
 
 And teacher commented that some TVs are equipped with an Android Box, then you also can develop software with React Native for these platforms.
 
-
+As you could saw in the teacher explanation, we will use the format TSX (TypeScript with XML), but some people use the format JSX (JavaScript with XML).
 
 
 
