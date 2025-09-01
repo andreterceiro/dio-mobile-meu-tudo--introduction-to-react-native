@@ -7,3 +7,5 @@ Teacher said that you can reuse 95% dof the code between the platforms (iOS and 
 Teacher also said that we have React Native for Windows and React Native for Mac to build software for these platforms.
 
 Another thing commented by the teacher was React Native for Augmented Reality.
+
+And teacher commented that some TVs are equipped with an Android Box, then you also can develop software with React Native for these platforms.
