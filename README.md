@@ -9,3 +9,24 @@ Teacher also said that we have React Native for Windows and React Native for Mac
 Another thing commented by the teacher was React Native for Augmented Reality.
 
 And teacher commented that some TVs are equipped with an Android Box, then you also can develop software with React Native for these platforms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# External links
+
+Teacher passed for us these external links:
+
+- [reactnative.dev](https://reactnative.dev/);
+- [oreilly.com](https://www.oreilly.com/library/view/learning-react-native/9781491929049/ch01.html);
+- [netguru.com](https://www.netguru.com/glossary/react-native).
