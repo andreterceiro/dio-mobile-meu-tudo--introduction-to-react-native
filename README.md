@@ -18,6 +18,9 @@ As you could saw in the teacher explanation, we will use the format TSX (TypeScr
 ![apps builded with React Native](images/apps-builded-with-react-native.png)
 
 
+# Second place in top opensource projects
+
+![second place](images/second-place.png)
 
 
 
