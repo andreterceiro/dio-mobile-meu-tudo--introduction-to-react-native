@@ -13,6 +13,10 @@ And teacher commented that some TVs are equipped with an Android Box, then you a
 As you could saw in the teacher explanation, we will use the format TSX (TypeScript with XML), but some people use the format JSX (JavaScript with XML).
 
 
+# Apps builded with React Native
+
+![apps builded with React Native](images/apps-builded-with-react-native.png)
+
 
 
 
