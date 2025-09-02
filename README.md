@@ -23,7 +23,7 @@ As you could saw in the teacher explanation, we will use the format TSX (TypeScr
 ![second place](images/second-place.png)
 
 
-# How Reaact Native works
+# How React Native works
 
 ![how React Native works](images/how-react-native-works.png)
 
@@ -31,10 +31,6 @@ As you could saw in the teacher explanation, we will use the format TSX (TypeScr
 # Conversion table of React Native components
 
 ![conversion table](images/conversion-table.png)
-
-
-
-
 
 
 # External links
