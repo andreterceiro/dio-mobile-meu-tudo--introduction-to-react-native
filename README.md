@@ -28,6 +28,10 @@ As you could saw in the teacher explanation, we will use the format TSX (TypeScr
 ![how React Native works](images/how-react-native-works.png)
 
 
+# Conversion table of React Native components
+
+![conversion table](images/conversion-table.png)
+
 
 
 
